@@ -3,6 +3,10 @@
 ## 每天都有大量岗位更新，微信扫码获取全部内容
 <img src="https://github.com/user-attachments/assets/6b95d5fe-f599-4693-9b58-b6cd11aed72c" width="200">
 
+<img src="https://mentorx.net/wp-content/uploads/2018/11/cropped-WechatIMG231-1.png" width="200">
+
+## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
+
 _Last updated: 10-23_
 
 | Job Title | Company | Location | Required Skills | Posted |
