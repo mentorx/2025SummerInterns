@@ -1,7 +1,7 @@
 # 2025 Summer Internships - 2025 美国实习岗位实时更新（CS实习，金融实习，数据实习，Marketing实习 and more）
 ## 2025 美国实习岗位实时更新 Internship Opportunities
 ## 每天都有大量岗位更新，微信扫码获取全部内容
-![image](https://github.com/user-attachments/assets/6b95d5fe-f599-4693-9b58-b6cd11aed72c)
+![image](https://github.com/user-attachments/assets/6b95d5fe-f599-4693-9b58-b6cd11aed72c | width=100)
 
 
 _Last updated: 10-23_
