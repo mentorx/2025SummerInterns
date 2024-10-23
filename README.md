@@ -1,5 +1,5 @@
 # 2025 Summer Internships - 2025 美国实习岗位实时更新（CS实习，金融实习，数据实习，Marketing实习 and more）
-## 2025 美国实习岗位实时更新 Internship Opportunities
+## 2025 美国实习岗位实时更新 
 ## 每天都有大量岗位更新，微信扫码获取全部内容
 <img src="https://github.com/user-attachments/assets/6b95d5fe-f599-4693-9b58-b6cd11aed72c" width="200">
 
@@ -7,6 +7,7 @@
 
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 
+## Latest Internship Opportunities
 _Last updated: 10-23_
 
 | Job Title | Company | Location | Required Skills | Posted |
