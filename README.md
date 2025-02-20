@@ -8,10 +8,11 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 02-17_
+_Last updated: 02-19_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Process Engineering Co-op - Summer 2025](https://www.indeed.com/viewjob?jk=25c966f81bd62d30&tk=1ikajrpeoi01e802&from=serp&vjs=3) | Tremco CPG Inc. | Cleveland, OH 44128 | Process Safety Management, Behavioral Risk Improvement, Lean Six-Sigma tools, 5S, A3 Problem Solving, Statistical Process Control, Value Stream Mapping, Data Collection, Project Management, Communication | 02-17 | <!-- JobID: wB7z4AORln -->
 | [Cyber Security Co-Op Fall 2025](https://www.indeed.com/viewjob?jk=90f8b2fa7a05b1fc&tk=1ikatunlhj2r6850&from=serp&vjs=3) | Watts Water Technologies | Remote | Cybersecurity, Incident monitoring, Information security tools, Policy review, Vulnerability scanning, Security assessments, Configuration policies, Security engineering processes, Collaboration, Detail-oriented | 02-17 | <!-- JobID: tNeSLeultm -->
 | [Credit Agricole CIB - Summer 2025 Analyst - Equity Capital Markets and Mergers and Acquisitions](https://www.indeed.com/viewjob?jk=4d4452f3af3f1e58&tk=1ikb2a187j73k8bs&from=serp&vjs=3) | Crédit Agricole CIB | New York, NY | Analytical skills, Financial modeling, Excel, PowerPoint, Communication skills, Attention to detail, Industry research, Valuation | 02-17 | <!-- JobID: IYoDKdpmLC -->
 | [Production & Sales Easter Holiday 2025](https://www.indeed.com/viewjob?jk=4f595ce7f519422e&tk=1ikb1a6au2btd008&from=serp&vjs=3) | HoneyBaked Ham | Ridgeland, MS 39157 | Sales, Customer Service, Cash Register Operation, Teamwork, Production Assistance | 02-17 | <!-- JobID: T5AbsDcoFL -->
