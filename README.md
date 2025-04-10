@@ -8,10 +8,11 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 04-05_
+_Last updated: 04-09_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Design Management Intern - Kiewit Infrastructure Engineers (Summer 2025)](https://www.indeed.com/viewjob?jk=a9ca19b7af828a79&tk=1inubup0u2cev03v&from=serp&vjs=3) | Kiewit Corporation | Lone Tree, CO | Civil Engineering, Design-build experience, Interpersonal skills, Communication skills, Organization, Time management, Attention to detail, Strong work ethic, Passion for safety, Team player | 04-03 | <!-- JobID: MLjyc4HE0d -->
 | [2025 Summer Transportation Intern](https://www.indeed.com/viewjob?jk=c27045ec91a4d055&tk=1inuc32ici9ct832&from=serp&vjs=3) | Dewberry | Orlando, FL 32801 | Civil Engineering, CADD (MicroStation or AutoCAD), Effective communication (verbal and written), Desire to learn | 04-03 | <!-- JobID: HK3nhX2jOe -->
 | [Civil Engineering Co-op Fall 2025](https://www.indeed.com/viewjob?jk=db10844443cae737&tk=1inucn9jkgb1e88i&from=serp&vjs=3) | LJB | Independence, OH 44131 | Civil Engineering, Design Processes, Office and Field Procedures, Teamwork, Problem Solving | 04-03 | <!-- JobID: JGYX94oYTX -->
 | [Structural Engineering Co-op Fall 2025](https://www.indeed.com/viewjob?jk=f18add140e6045d9&tk=1inucn9jkgb1e88i&from=serp&vjs=3) | LJB | Houston, TX 77084 | Structural Engineering, Design Software (Revit preferred), Project or Design Experience, Understanding of OSHA and ANSI Standards | 04-03 | <!-- JobID: RptoLWqyhY -->
